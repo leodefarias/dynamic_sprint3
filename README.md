@@ -1,5 +1,10 @@
 # 🏥 Desafio – Gestão de Insumos com Programação Dinâmica
 
+## 👩‍💻 Integrantes
+- Leonardo de Farias - RM: 555211
+- Gustavo Laur - RM: 556603
+- Giancarlo Cestarolli - RM: 555248
+
 ## 📌 Contexto
 Em um laboratório de patologia, técnicos utilizam insumos (reagentes, lâminas, cassetes, etc.) com lotes diferentes (quantidade, custo e validade). Há uma demanda diária de consumo para cada insumo. 
 
@@ -82,15 +87,3 @@ Top consumos por insumo (desc):
 
 ✅ Demonstração concluída.
 ```
-
-## 🧩 Conexão com o desafio
-Este projeto atende ao **Desafio 2 – Dimensionamento de amostras de patologia**, pois:
-- Substitui registros **manuais** por uma estrutura otimizada em Python.
-- Permite simular **consumo diário** e consultas retroativas.
-- Otimiza a escolha de lotes via **programação dinâmica**, reduzindo custos e desperdícios.
-- Gera relatórios que auxiliam no **controle de qualidade** e **tomada de decisão** no laboratório.
-
-## 👩‍💻 Autor
-- **Nome:** SEU_NOME
-- **RA:** SEU_RA
-- **Turma:** SUA_TURMA
